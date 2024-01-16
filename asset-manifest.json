@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my_react_Portfolio/static/css/main.650a664a.css",
+    "main.js": "/my_react_Portfolio/static/js/main.5b903c25.js",
+    "static/media/MAINDA.png": "/my_react_Portfolio/static/media/MAINDA.d14f27ffabe1228daa88.png",
+    "static/media/food-delivery.png": "/my_react_Portfolio/static/media/food-delivery.0075b28a5c1b226517a9.png",
+    "static/media/health-app.png": "/my_react_Portfolio/static/media/health-app.7eae9af6ad50eae93321.png",
+    "static/media/HI-TECH - Copy.png": "/my_react_Portfolio/static/media/HI-TECH - Copy.486d7f9167f22b7e60ee.png",
+    "static/media/health-website.png": "/my_react_Portfolio/static/media/health-website.29a364956de0f7d61932.png",
+    "static/media/resume.pdf": "/my_react_Portfolio/static/media/resume.85ceb3dfd32b0b4a526a.pdf",
+    "static/media/boy.png": "/my_react_Portfolio/static/media/boy.6419b4280e827eff6784.png",
+    "static/media/enogi1.png": "/my_react_Portfolio/static/media/enogi1.0983f119c8c2b264e88e.png",
+    "static/media/BARUNESWAR.png": "/my_react_Portfolio/static/media/BARUNESWAR.faf6b3a69287f94365b0.png",
+    "static/media/man-technologist-facebook.png": "/my_react_Portfolio/static/media/man-technologist-facebook.1aa80dd097f391e16f49.png",
+    "static/media/thumbup.png": "/my_react_Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/heartemoji.png": "/my_react_Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/my_react_Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/my_react_Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/my_react_Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/my_react_Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/my_react_Portfolio/index.html",
+    "main.650a664a.css.map": "/my_react_Portfolio/static/css/main.650a664a.css.map",
+    "main.5b903c25.js.map": "/my_react_Portfolio/static/js/main.5b903c25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.650a664a.css",
+    "static/js/main.5b903c25.js"
+  ]
+}
