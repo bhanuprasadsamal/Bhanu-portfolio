@@ -25,7 +25,7 @@ const Contact = () => {
       </div>
       {/* right side form */}
       <div className="c-right">
-        <form ref={form} action="https://formspree.io/f/xrgnbljl" method="POST">
+        <form ref={form} action="https://formspree.io/f/mjvnpkak" method="POST">
           <input type="text" name="user_name" className="user"  placeholder="Name"/>
           <input type="email" name="user_email" className="user" placeholder="Email"/>
           <textarea name="message" className="user" placeholder="Message"/>
